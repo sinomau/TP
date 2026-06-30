@@ -1,0 +1,17 @@
+# Objetos y ejecutables
+bin/
+obj/
+*.o
+*.exe
+
+# Archivos de datos binarios
+*.dat
+*.bkp
+
+# CodeBlocks
+*.layout
+*.depend
+*.cscope_file_list
+
+# Documentacion (no subir al repo)
+*.md

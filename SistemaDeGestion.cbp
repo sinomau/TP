@@ -46,7 +46,6 @@
 		<Unit filename="EmpleadoManager.h" />
 		<Unit filename="Fecha.cpp" />
 		<Unit filename="Fecha.h" />
-		<Unit filename="main.cpp" />
 		<Unit filename="Menu.cpp" />
 		<Unit filename="Menu.h" />
 		<Unit filename="Persona.cpp" />
@@ -63,16 +62,15 @@
 		<Unit filename="ProveedorArchivo.h" />
 		<Unit filename="ProveedorManager.cpp" />
 		<Unit filename="ProveedorManager.h" />
+		<Unit filename="Validaciones.cpp" />
+		<Unit filename="Validaciones.h" />
 		<Unit filename="Venta.cpp" />
 		<Unit filename="Venta.h" />
 		<Unit filename="VentaArchivo.cpp" />
 		<Unit filename="VentaArchivo.h" />
 		<Unit filename="VentaManager.cpp" />
 		<Unit filename="VentaManager.h" />
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-		</Extensions>
+		<Unit filename="main.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
